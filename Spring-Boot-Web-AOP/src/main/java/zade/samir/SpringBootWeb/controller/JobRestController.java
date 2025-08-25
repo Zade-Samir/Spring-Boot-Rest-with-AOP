@@ -1,4 +1,4 @@
-package zade.samir.SpringBootWeb;
+package zade.samir.SpringBootWeb.controller;
 
 import java.util.List;
 
